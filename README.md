@@ -31,7 +31,7 @@ Technology Stack:
 5. Tomcat 8.5 (In built container)
 6. Bootstrap and Jquery for UI
 7. Logging for slf4j
-8. Testing for Junit
+8. Testcases covered for All functions of Services
 9. Maven
 10.Netbeans IDE
 
