@@ -1,8 +1,5 @@
 # Spring Guestbook
 
-A Spring application using an H2 database.
-# Spring Guestbook
-
 
 
 There are two interfaces to the guestbook database, one
@@ -52,7 +49,10 @@ Type following URL in browser
 2. you can able to see the Page with inserted Guestbook data and new user and message can submit
 
 3. you can able to update and delete the message/comment created by the user
+
+
 Application Execution Screenshot
+
 ![image](https://user-images.githubusercontent.com/48051814/59149412-a0a9ef00-8a32-11e9-83d2-2432d53384ed.png)
 
 
@@ -60,14 +60,3 @@ Application Execution Screenshot
 
 
 
-
-
-
-Spring version 2 and Java 8.
-
-Run with Maven:
-
-$ mvn spring-boot:run
-
-The app will then be available on port 8080, that is
-http://localhost:8080/ .
